@@ -1,0 +1,4 @@
+.bodybg{
+    -fx-background-image: url('controller/bgImage.jpeg');
+    -fx-background-size: 100% 100%;
+}
